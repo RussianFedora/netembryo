@@ -4,7 +4,7 @@
 Summary: Network abstraction library
 Name: netembryo
 Version: 0.1.1
-Release: 1%{?git:.%{rev}git}%{?dist}
+Release: 1%{?git:.%{rev}git}%{?dist}.R
 License: LGPLv2+
 Group: Development/Libraries
 %if %{?git:1}0
